@@ -1,0 +1,4 @@
+aid install python3-kenlm
+# pip install jiayan
+
+pip install -r requirements.txt
