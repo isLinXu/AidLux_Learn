@@ -1,0 +1,10 @@
+运行该例子需下载以下模型，并将模型放置在 /model_data/ 目录下
+1. https://www.aidlux.com/aimodels/smart_reply/checkpoint
+2. https://www.aidlux.com/aimodels/smart_reply/ckpt-203.data-00000-of-00001
+3. https://www.aidlux.com/aimodels/smart_reply/ckpt-203.index
+
+步骤：
+1. 打开terminal， cd /home/examples/smart_reply/model_data
+2. wget https://www.aidlux.com/aimodels/smart_reply/checkpoint
+3. wget https://www.aidlux.com/aimodels/smart_reply/ckpt-203.data-00000-of-00001
+4. wget https://www.aidlux.com/aimodels/smart_reply/ckpt-203.index
