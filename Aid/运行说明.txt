@@ -1,0 +1,12 @@
+运行该例子需下载以下模型，并将模型放置在 /jiayan_models/ 目录下
+1. https://www.aidlux.com/aimodels/jiayan/cut_model
+2. https://www.aidlux.com/aimodels/jiayan/jiayan.klm
+3. https://www.aidlux.com/aimodels/jiayan/pos_model
+4. https://www.aidlux.com/aimodels/jiayan/punc_model
+
+步骤：
+1. 打开terminal， cd /home/examples/jiayan/jiayan_models
+2. wget https://www.aidlux.com/aimodels/jiayan/cut_model
+3. wget https://www.aidlux.com/aimodels/jiayan/jiayan.klm
+4. wget https://www.aidlux.com/aimodels/jiayan/pos_model
+5. wget https://www.aidlux.com/aimodels/jiayan/punc_model

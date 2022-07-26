@@ -1,0 +1,4 @@
+android==0.0.1
+gevent_socketio==0.3.6
+jiayan==0.0.21
+remi==2021.3.2

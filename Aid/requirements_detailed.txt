@@ -1,0 +1,135 @@
+absl-py==0.15.0
+aidluxlvt @ http://www.aidlearning.net/pip/aidluxlvt-0.0.1-py3-none-any.whl
+APScheduler==3.8.0
+astunparse==1.6.3
+atomicwrites==1.1.5
+attrs==18.2.0
+bidict==0.21.3
+cached-property==1.5.2
+cachetools==4.2.4
+certifi==2021.5.30
+charset-normalizer==2.0.4
+click==8.0.1
+cloudpickle==1.1.1
+cycler==0.10.0
+Cython==0.29.24
+decorator==4.3.0
+docopt==0.6.2
+filelock==3.3.1
+Flask @ http://www.aidlearning.net/pip/Flask-2.0.2-py3-none-any.whl
+Flask-APScheduler==1.12.2
+Flask-Cors==3.0.10
+Flask-SocketIO @ http://www.aidlearning.net/pip/Flask_SocketIO-5.1.1-py3-none-any.whl
+flatbuffers==1.12
+gast==0.2.2
+google-auth==2.3.0
+google-auth-oauthlib==0.4.6
+google-pasta==0.2.0
+grpcio @ file:///tmp/grpcio-1.34.1-cp37-cp37m-linux_aarch64.whl
+gym==0.21.0
+h5py==2.8.0
+huggingface-hub==0.0.19
+idna==3.2
+imageio==2.9.0
+importlib-metadata==4.8.1
+itsdangerous==2.0.1
+jiayan==0.0.21
+jieba==0.42.1
+Jinja2==3.0.1
+joblib==1.1.0
+kenlm @ https://github.com/kpu/kenlm/archive/master.zip
+Keras==2.3.1
+Keras-Applications==1.0.8
+keras-nightly==2.5.0.dev2021032900
+Keras-Preprocessing==1.1.2
+kiwisolver==1.3.2
+loguru @ http://www.aidlearning.net/pip/loguru-0.5.3-py3-none-any.whl
+Markdown==3.3.4
+MarkupSafe==2.0.1
+matplotlib @ http://www.aidlearning.net/pip/matplotlib-3.4.3-cp37-cp37m-manylinux2014_aarch64.whl
+more-itertools==4.2.0
+networkx==2.6.3
+nose==1.3.7
+numpy==1.20.3
+oauthlib==3.1.1
+olefile==0.46
+onnxruntime==1.9.0
+opencv-contrib-python==4.5.2.54
+opencv-python==4.5.4.58
+opt-einsum==3.3.0
+p5py==1.0.0
+packaging==21.0
+pandas==1.3.4
+pep517==0.12.0
+pickleDB @ http://www.aidlearning.net/pip/pickleDB-0.9.2-py3-none-any.whl
+Pillow==8.4.0
+pipreqs==0.4.11
+pluggy==0.8.0
+progressbar2==3.55.0
+protobuf==3.18.1
+psutil==5.5.1
+ptyprocess==0.7.0
+py==1.7.0
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+pyclipper==1.1.0.post2
+pycryptodome @ http://www.aidlearning.net/pip/pycryptodome-3.10.4-cp35-abi3-manylinux2014_aarch64.whl
+pyelftools @ http://www.aidlearning.net/pip/pyelftools-0.27-py2.py3-none-any.whl
+pyparsing==3.0.1
+pytest==3.10.1
+python-crfsuite==0.9.7
+python-dateutil==2.8.2
+python-engineio==4.2.1
+python-socketio==5.4.1
+python-utils==2.5.6
+pytz==2021.3
+PyWavelets==1.1.1
+PyYAML==6.0
+regex==2019.2.7
+remi==2021.3.2
+requests==2.26.0
+requests-oauthlib==1.3.0
+rsa==4.7.2
+sacremoses==0.0.46
+scikit-image==0.18.3
+scikit-learn==0.20.2
+scipy==1.7.1
+seaborn @ http://www.aidlearning.net/pip/seaborn-0.11.2-py3-none-any.whl
+Shapely==1.6.4
+simplejson==3.16.0
+six==1.16.0
+sklearn==0.0
+svgwrite==1.4.1
+tenacity @ http://www.aidlearning.net/pip/tenacity-8.0.1-py3-none-any.whl
+tensorboard==2.7.0
+tensorboard-data-server==0.6.1
+tensorboard-plugin-wit==1.8.0
+tensorflow-cpu @ file:///tmp/tensorflow_cpu-2.5.0-cp37-cp37m-manylinux2014_aarch64.whl
+tensorflow-estimator==2.5.0
+tensorflow-probability==0.7.0
+tensorlayer==2.2.3
+termcolor==1.1.0
+terminado @ http://www.aidlearning.net/pip/terminado-0.12.1-py3-none-any.whl
+texttable==1.6.4
+threadpoolctl==3.0.0
+tifffile==2021.10.12
+tokenizer @ https://www.aidlux.com/pip/tokenizer-3.3.2-py2.py3-none-any.whl
+tokenizers==0.10.2
+tomli==1.2.1
+torch==1.9.0
+torchvision==0.10.0
+tornado @ http://www.aidlearning.net/pip/tornado-6.1-cp37-cp37m-manylinux2014_aarch64.whl
+tornado_xstatic @ http://www.aidlearning.net/pip/tornado_xstatic-0.2-py2.py3-none-any.whl
+tqdm @ http://www.aidlearning.net/pip/tqdm-4.62.2-py2.py3-none-any.whl
+transformers==4.11.3
+Tree==0.2.4
+typing-extensions==3.10.0.2
+tzlocal==2.1
+urllib3==1.26.6
+Werkzeug==2.0.1
+wget==3.2
+wrapt==1.12.1
+XStatic @ http://www.aidlearning.net/pip/XStatic-1.0.2-py3-none-any.whl
+XStatic-term.js @ http://www.aidlearning.net/pip/XStatic_term.js-0.0.7.0-py3-none-any.whl
+yarg==0.1.9
+zipp==3.6.0
