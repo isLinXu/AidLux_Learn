@@ -1,0 +1,6 @@
+运行该例子需下载以下模型，并将模型放置在 /checkpoints/ 目录下
+1. https://www.aidlux.com/aimodels/image_denoising/chk_2_1_0.5.pt
+
+步骤：
+1. 打开terminal， cd /home/examples/smart_reply/model_data
+2. wget https://www.aidlux.com/aimodels/image_denoising/chk_2_1_0.5.pt
